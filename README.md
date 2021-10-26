@@ -1,0 +1,2 @@
+# lojmat
+Journal Management System
